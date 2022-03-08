@@ -62,9 +62,9 @@ function read(text) {
   } else if (text == "who is Hridoy daughter") {
     speech.text =
       " Hridoy daughter name is Moina , she is good girl, his age 2 years, she like ice creame ";
-  } else if (text == "Who is Tisha") {
+  } else if (text == "Who is Tanme") {
     speech.text =
-      "Tisha is that girl who is loved by jamil alot, jamil loves her so much";
+      "Tanme is that girl who is loved by jamil alot, jamil loves her so much";
   } else if (text == "do you know Bangladesh cricket last update") {
     speech.text =
       "Yes sir I know , Bangladesh vs Afghanisthan 2nd ODI , banladesh won by 88 runs!";
