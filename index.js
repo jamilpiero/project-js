@@ -56,9 +56,9 @@ function read(text) {
   } else if (text == "who is Abdul") {
     speech.text =
       "Abdul is Shawon frist name . Shawon is a very cool boy , Shawon stays in Mirpur, Dhaka.  he hang out with girls all day,recently Shawon open a BEGUN VAJI hotel. that's just awesome , you can teast it .  ";
-  } else if (text == "who is Nayak") {
+  } else if (text == "who is tisha") {
     speech.text =
-      " Hridoy is a very bad boy , Hridoy stays in Malashiya , he hang out with girls all day, he has a daughter, his name Moina";
+      " tisha is that girl whom jamil love so much...He is very serious about tisha.He loves tisha alot";
   } else if (text == "who is Hridoy daughter") {
     speech.text =
       " Hridoy daughter name is Moina , she is good girl, his age 2 years, she like ice creame ";
