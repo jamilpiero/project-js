@@ -56,15 +56,15 @@ function read(text) {
   } else if (text == "who is Abdul") {
     speech.text =
       "Abdul is Shawon frist name . Shawon is a very cool boy , Shawon stays in Mirpur, Dhaka.  he hang out with girls all day,recently Shawon open a BEGUN VAJI hotel. that's just awesome , you can teast it .  ";
-  } else if (text == "who is abdul") {
+  } else if (text == "who is Nayak") {
     speech.text =
-      " tisha is that girl whom jamil love so much...He is very serious about tisha.He loves tisha alot";
+      " Hridoy is a very bad boy , Hridoy stays in Malashiya , he hang out with girls all day, he has a daughter, his name Moina";
   } else if (text == "who is Hridoy daughter") {
     speech.text =
       " Hridoy daughter name is Moina , she is good girl, his age 2 years, she like ice creame ";
-  } else if (text == "Who is Tisha?") {
+  } else if (text == "Who is Tisha") {
     speech.text =
-      "Tisha is that girl which is loved alot by Jamil,Jamil loves tisha alot";
+      "Tisha is that girl who is loved by jamil alot, jamil loves her so much";
   } else if (text == "do you know Bangladesh cricket last update") {
     speech.text =
       "Yes sir I know , Bangladesh vs Afghanisthan 2nd ODI , banladesh won by 88 runs!";
